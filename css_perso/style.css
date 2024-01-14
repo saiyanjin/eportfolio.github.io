@@ -95,6 +95,7 @@ body {
 #nav-principale {
 	border: px solid red;
 	height: 80%;
+	max-height:700px;
 	width: 270px;
 	max-width: 270px;
 	background-color: #27282c;
